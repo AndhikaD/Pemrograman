@@ -1,0 +1,15 @@
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\bin\Debug\net6.0\Pemrograman_Kalkulator.exe
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\bin\Debug\net6.0\Pemrograman_Kalkulator.deps.json
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\bin\Debug\net6.0\Pemrograman_Kalkulator.runtimeconfig.json
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\bin\Debug\net6.0\Pemrograman_Kalkulator.dll
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\bin\Debug\net6.0\Pemrograman_Kalkulator.pdb
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.AssemblyInfoInputs.cache
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.AssemblyInfo.cs
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.dll
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\refint\Pemrograman_Kalkulator.dll
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.pdb
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\Pemrograman_Kalkulator.genruntimeconfig.cache
+C:\Users\L E N O V O\source\repos\Pemrograman_Kalkulator\Pemrograman_Kalkulator\obj\Debug\net6.0\ref\Pemrograman_Kalkulator.dll
